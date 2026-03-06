@@ -1,16 +1,63 @@
-# React + Vite
+# Swathi Chauhan — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern developer portfolio showcasing full-stack web applications, AI-powered projects, and scalable solutions.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend
+- React
+- Tailwind CSS
+- JavaScript (ES6+)
+- Framer Motion
 
-## React Compiler
+Backend
+- Node.js
+- Express.js
+- REST APIs
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Database
+- MongoDB
+- Mongoose
 
-## Expanding the ESLint configuration
+AI Integration
+- OpenAI API
+- Prompt Engineering
+- AI Workflow Automation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tools
+- Git & GitHub
+- Vite
+- Postman
+- Vercel
+- Render
+
+---
+
+## Featured Projects
+
+### AI-Powered Job Consultancy Platform
+Full-stack platform for job matching with AI-assisted candidate recommendations.
+
+### SaaS Analytics Dashboard
+Interactive dashboard with real-time analytics and AI insights.
+
+### Sanvika Luxe — Diamond E-Commerce
+Luxury jewellery e-commerce platform with AI product recommendations and secure checkout.
+
+---
+
+## Live Portfolio
+
+https://your-portfolio-link.vercel.app
+
+---
+
+## Contact
+
+GitHub: https://github.com/Mudavath-Swathi
+LinkedIn: https://www.linkedin.com/in/swathi-chauhan-901a1b275/
+Email: swathichauhan22@gmail.com
+
+---
+
+⭐ If you like this project, consider giving it a star!
