@@ -23,6 +23,13 @@ const projects = [
     tech: ["React", "Node.js", "E-commerce", "AI"],
     link: "/projects/sanvika-luxe",
   },
+  {
+    title: "Wind Power Forecast Monitoring Dashboard",
+    description:
+      "A full-stack wind power forecast monitoring dashboard built for the REint AI SWE Challenge. Fetches real-time data from the Elexon UK BMRS API and visualises actual vs forecasted wind generation with interactive controls and error analysis.",
+    tech: ["React", "Node.js", "Express", "Recharts", "Python", "Jupyter"],
+    link: "/projects/wind-forecast",
+  },
 ];
 
 export default function Projects() {

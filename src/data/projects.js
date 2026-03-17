@@ -20,6 +20,9 @@ import sanvikaHero from "../assets/projects/sanvika/hero.png";
 import sanvikaProduct from "../assets/projects/sanvika/product.png";
 import sanvikaCheckout from "../assets/projects/sanvika/checkout.png";
 
+import windDashboard1 from "../assets/projects/reintai/windDashboard1.png";
+import windDashboard2 from "../assets/projects/reintai/windDashboard2.png";
+
 // ==========================
 // Projects Data
 // ==========================
@@ -83,4 +86,25 @@ export const projects = {
     live: "https://svarnika-luxe.vercel.app/",
     github: "https://github.com/Mudavath-Swathi/Svarnika-Luxe",
   },
+
+  "wind-forecast": {
+    title: "Wind Power Forecast Monitoring Dashboard",
+    tagline: "Real-time UK wind energy forecast vs actuals",
+    description:
+      "A full-stack wind power forecast monitoring dashboard built for the REint AI SWE Challenge. Fetches real-time data from the Elexon UK BMRS API and visualises actual vs forecasted wind generation with interactive controls and error analysis.",
+    tech: ["React", "Node.js", "Express", "Recharts", "Python", "Jupyter"],
+    heroImage: windDashboard1,
+    gallery: [windDashboard2],
+    highlights: [
+      "Interactive date range picker and forecast horizon slider (0–48 hours)",
+      "Live line chart comparing actual vs forecasted wind generation",
+      "Metric cards showing Avg Error, Max Error, Coverage and Data Range",
+      "Jupyter notebook analysis with MAE, RMSE, bias and reliable MW recommendation",
+    ],
+    outcome:
+      "Delivered a fully deployed end-to-end forecast monitoring tool with real Elexon API data and quantitative error analysis for January 2024.",
+    live: "https://reint-wind-forecast-liard.vercel.app/",
+    github: "https://github.com/Mudavath-Swathi/reint-wind-forecast",
+  },
+
 };
