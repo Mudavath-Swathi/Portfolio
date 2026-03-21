@@ -42,7 +42,7 @@ export default function Hero() {
               transition={{ delay: 0.2 }}
               className="mb-4 text-sm font-medium tracking-wide text-[var(--accent)]"
             >
-              Full-Stack & AI Engineer
+              Full-Stack & AI Engineer · IIT Kharagpur
             </motion.p>
 
             {/* Heading */}
