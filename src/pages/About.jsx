@@ -31,26 +31,24 @@ export default function About() {
             viewport={{ once: true }}
             transition={{ duration: 0.6, ease: "easeOut" }}
           >
-            <p className="mb-5 text-[var(--text-secondary)]">
-              I’m a full-stack developer with a strong interest in building
-              scalable, user-focused web applications. I enjoy working across
-              the stack — from designing clean user interfaces to implementing
-              reliable backend systems and integrating intelligent features.
-            </p>
+           <p className="mb-5 text-[var(--text-secondary)]">
+           I'm Mudavath Swathi Chauhan — an Aerospace Engineering student at IIT Kharagpur 
+           who builds full-stack web applications. While my degree is in Aerospace, 
+           I've spent the last two years teaching myself the MERN stack, Next.js, 
+           Python, and AI integrations. I've shipped projects across different domains 
+           — an AI-powered job consultancy platform, a SaaS analytics tool with 
+           ML-driven predictions, a wind power forecasting dashboard, and a premium 
+           e-commerce platform. Every project is deployed, live, and built 
+           end-to-end by me.
+          </p>
 
-            <p className="mb-5 text-[var(--text-secondary)]">
-              My work focuses on clarity, performance, and real-world usability.
-              I prefer building systems that are easy to maintain, thoughtfully
-              designed, and aligned with actual user needs rather than just
-              adding features for the sake of complexity.
-            </p>
-
-            <p className="text-[var(--text-secondary)]">
-              I’m currently exploring opportunities in full-stack and AI-driven
-              web development, including freelance projects, internships, and
-              full-time roles where I can continue to grow and contribute
-              meaningfully.
-            </p>
+          <p className="text-[var(--text-secondary)]">
+          I care about clean UI, reliable backends, and code that's actually 
+          maintainable — not just features for the sake of it. I'm actively looking 
+          for full-stack or AI-focused opportunities — full-time roles, 
+          internships, or freelance collaborations — where I can apply my skills 
+          to real problems and build things that matter.
+         </p>
           </motion.div>
 
           {/* Right: Image */}
@@ -91,7 +89,7 @@ export default function About() {
               Aerospace Engineering — IIT Kharagpur
             </p>
             <p className="mt-1 text-sm text-[var(--text-subtle)]">
-              Currently in 4th Year
+              2022 - 2026
             </p>
           </div>
         </motion.div>
